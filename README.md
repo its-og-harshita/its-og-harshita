@@ -1,4 +1,4 @@
-![Signin WorkFlow CODESF](Task1/COMPLETED.png)
+![Signin WorkFlow CODESF](https://github.com/its-og-harshita/its-og-harshita/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Harshita Kandpal</h1>
 <h3 align="center">A passionate UI UX Designer from India</h3>
